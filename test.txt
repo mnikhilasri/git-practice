@@ -1,3 +1,4 @@
 hello git
 this is my first text document in git
 commit update 
+created a sub master branch using git hub
