@@ -2,3 +2,4 @@ hello git
 this is my first text document in git
 commit update 
 created a sub master branch using git hub
+merging sub master branch to the main master by using compare and pull request in git hub
