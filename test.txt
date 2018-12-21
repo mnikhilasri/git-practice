@@ -4,3 +4,5 @@ commit update
 created a sub master branch using git hub
 merging sub master branch to the main master by using compare and pull request in git hub
 created a new master named "slave" - will check whether it will two braches at a time (now code written in slave branch)
+now we are git in our server
+commit the message
