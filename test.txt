@@ -1,2 +1,3 @@
 hello git
 this is my first text document in git
+commit update 
